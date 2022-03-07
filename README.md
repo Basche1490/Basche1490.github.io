@@ -6,6 +6,7 @@ DockerHub Link: https://hub.docker.com/r/cglatot/pasta
 Unraid Installation: This is now available on the Commmunity Applications list thanks to https://github.com/selfhosters/unRAID-CA-templates
 
 Encountered a bug, or have a feature request? Log it here: https://github.com/cglatot/pasta/issues
+https://github.com/cglatot/pasta
 
 Enjoying the tool? Considering adding to my coffee / energy drink fund :)
 
